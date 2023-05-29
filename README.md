@@ -1,4 +1,4 @@
-<h1 align="center">Shift Salculator</h1>
+<h1 align="center">Shift Calculator</h1>
 
 ![Shift Calculator](assets/plantao.gif)
 
