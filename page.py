@@ -41,6 +41,7 @@ def calculadora_plantao():
             print("Informe uma opção correta! ")
     else:
         print("Informe uma opção correta!")
-        
-calcp = calculadora_plantao()
+
+while True:    
+    calculadora_plantao()
 
