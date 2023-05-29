@@ -4,7 +4,7 @@
 
 ##  Sobre este projeto
 
-A **Shift Salculator** calcula os valores correspondentes aos plantões trabalhados. *Este projeto tem o intuito de facilitar os cálculos dos plantões realizados por trabalhadores que não têm acesso a um sistema corporativo (freelancers, cooperados etc.).*  
+O **Shift Calculator** calcula os valores correspondentes aos plantões trabalhados. *Este projeto tem o intuito de facilitar os cálculos dos plantões realizados por trabalhadores que não têm acesso a um sistema corporativo (freelancers, cooperados etc.).*  
 
 ##  Funcionalidades
 Os plantões são disponibilizados no formato 12h e 24h. 
